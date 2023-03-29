@@ -12,3 +12,10 @@ My model accuracy
 ![Streamlit](https://freckledme-mnist-streamlit-ld58u5.streamlit.app/)
 
 <a><img src="image/deploy1.png"/></a>
+
+Use
+
+    pip install -r requirements.txt
+
+
+![Download and run notebook](https://github.com/FreckledMe/mnist/blob/main/mnsit.ipynb)
