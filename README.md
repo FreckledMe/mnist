@@ -11,4 +11,4 @@ My model accuracy
 
 ![Streamlit](https://freckledme-mnist-streamlit-ld58u5.streamlit.app/)
 
-![Screenshot](image/deploy.png)
+<a><img src="image/deploy.png"/></a>
