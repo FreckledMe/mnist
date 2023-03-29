@@ -7,6 +7,8 @@ This is a dataset of 60,000 28x28 grayscale images of the 10 digits, along with 
 <a><img src="image/numbers.png"/></a>
 
 My model accuracy
-<a><img src="image/eval.png"/></a>
+<a><img src="image/acc.png"/></a>
+
+![Streamlit](https://freckledme-mnist-streamlit-ld58u5.streamlit.app/)
 
 ![Screenshot](image/deploy.png)
